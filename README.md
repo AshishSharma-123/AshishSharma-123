@@ -4,7 +4,7 @@
 🎓 B.Tech Computer Science Student (2022–2026)  
 📍 Bhiwani, Haryana, India  
 
-💡 Passionate about **Software Development, AI Integration, and Full Stack Applications**.  
+💡 Passionate about **Artificial Intelligence,  AI Integration Applications**.  
 I enjoy building intelligent systems and user-focused applications using modern technologies.
 
 ---
@@ -14,7 +14,7 @@ I enjoy building intelligent systems and user-focused applications using modern 
 - 🎓 B.Tech CSE at The Technological Institute of Textile and Sciences
 - 💻 Strong foundation in **Data Structures and Algorithms**
 - 🤖 Interested in **AI powered applications**
-- 🌱 Currently learning **Advanced Backend & AI Integration**
+- 🌱 Currently learning **Artificial Intelligence**
 - 🎯 Goal: Become a **Software Developer / AI Engineer**
 
 ---
