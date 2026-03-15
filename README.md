@@ -12,7 +12,6 @@ I enjoy building intelligent systems and user-focused applications using modern 
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE at The Technological Institute of Textile and Sciences
-- 💻 Strong foundation in **Data Structures and Algorithms**
 - 🤖 Interested in **AI powered applications**
 - 🌱 Currently learning **Artificial Intelligence**
 - 🎯 Goal: Become a **Software Developer / AI Engineer**
@@ -22,18 +21,15 @@ I enjoy building intelligent systems and user-focused applications using modern 
 ## 🛠 Tech Stack
 
 ### Programming
+- Python
 - C
 - C++
-- JavaScript
-- Python
 - Java (Familiar)
 
 ### Web Development
 - HTML5
 - CSS3
 - JavaScript
-- React.js
-- Tailwind CSS
 - Flask
 
 ### Tools
