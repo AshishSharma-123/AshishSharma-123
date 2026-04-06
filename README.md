@@ -1,5 +1,5 @@
 
-# Hi 👋 I'm Ashish Sharma
+# Hi 👋 I'm Ashish
 
 🎓 B.Tech Computer Science Student (2022–2026)  
 📍 Bhiwani, Haryana, India  
