@@ -54,6 +54,7 @@ https://github.com/AshishSharma-123/face-recognition-flask
 ---
 ## 📄 DocuMind - AI-RAG Project
 Built a full-stack Retrieval-Augmented Generation (RAG) web app using Flask and Groq's Llama-3.1-8b, enabling users to upload PDFs and get precise, context-grounded answers in real time.
+
 Implemented an end-to-end document indexing pipeline — PDF text extraction (PyPDF2) → recursive chunking (LangChain) → vector embeddings (all-MiniLM-L6-v2) → FAISS index — supporting semantic top-K retrieval with deduplicated context injection.
 
 **Tech Stack**
